@@ -229,10 +229,10 @@ document.addEventListener("DOMContentLoaded", function() {
             foods: ["Lamb", "Clarified Butter", "Eggs", "Cheese", "Spinach"],
             flag: "https://flagcdn.com/et.svg"
         },
-        "Israel": {
-            foods: ["Avocados", "Olive Oil", "Eggs", "Cheese", "Zucchini"],
-            flag: "https://flagcdn.com/il.svg"
-        },
+        "Palestine": {
+    foods: ["Eggplant", "Olive Oil", "Lamb", "Cheese", "Zucchini"],
+    flag: "https://flagcdn.com/ps.svg"
+},
         "Saudi Arabia": {
             foods: ["Lamb", "Olive Oil", "Eggs", "Cheese", "Zucchini"],
             flag: "https://flagcdn.com/sa.svg"
